@@ -1,5 +1,8 @@
 # Document-AI-
 
+Paper - MSc Thesis: [Document AI MSc Thesis.pdf](https://github.com/samakos/Document-AI-/files/11925347/Document.AI.MSc.Thesis.pdf)
+
+
 Experiment LayoutLMv3 on DocLayNet dataset (object detection) can be found on LayoutLMv3_DocLayNet.ipynb
 
 Experiment YOLOv5 on GROTOAP2 dataset (object detection) can be found on YOLOv5 on GROTOAP2.ipynb
