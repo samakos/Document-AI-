@@ -1,6 +1,6 @@
 # Document-AI-
 
-Paper - MSc Thesis: [Document AI MSc Thesis.pdf](https://github.com/samakos/Document-AI-/files/11925347/Document.AI.MSc.Thesis.pdf)
+Paper - MSc Thesis: https://arxiv.org/abs/2308.15517
 
 
 Experiment LayoutLMv3 on DocLayNet dataset (object detection) can be found on LayoutLMv3_DocLayNet.ipynb
